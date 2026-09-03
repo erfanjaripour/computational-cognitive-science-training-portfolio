@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
+.venv/
 
 start-jupyter.bat
